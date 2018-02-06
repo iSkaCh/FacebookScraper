@@ -2,7 +2,7 @@
 
 This is a facebook scraper that was used for a school project, it uses the Selenium framework.
 
-It is based on the FacebookBot found here https://github.com/iSkaCh/FacebookBot
+It is based on the FacebookBot found here https://github.com/hikaruAi/FacebookBot
 
 This script extract, to this date, every facebook comment and post but it is kind of slow.
 
