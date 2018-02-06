@@ -1,6 +1,6 @@
 # FacebookScraper
 
-This is a facebook scraper that was used for a school project
+This is a facebook scraper that was used for a school project, it uses the Selenium framework.
 
 It is based on the FacebookBot found here https://github.com/iSkaCh/FacebookBot
 
